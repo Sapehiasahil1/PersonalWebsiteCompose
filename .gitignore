@@ -27,6 +27,6 @@ kotlin-js-store
 
 # Kobweb Ignores
 .kobweb/*
-.kobweb/conf.yaml
-.kobweb/site
+!.kobweb/conf.yaml
+!.kobweb/site
 
